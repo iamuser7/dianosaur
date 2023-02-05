@@ -1,0 +1,38 @@
+h1:hover{
+    background-color: blueviolet;
+    color:white;
+
+}
+h1{
+    background-color: rgb(238, 238, 238);
+}
+#r:hover{
+    background-color: red;
+    color:white;
+}
+img{
+    background-color: black;
+}
+#g:hover{
+    background-color: rgb(148, 219, 148);
+    color:white;
+}
+td{
+    width: 150px;
+    height: 150px;
+}
+img{
+    width: 150px;
+    height:150px;
+}
+.rex:hover{
+    background-color: red;
+
+}
+
+.veg:hover{
+    background-color: rgb(148, 219, 148);
+}
+#b:hover{
+    background-color: orange;
+}
